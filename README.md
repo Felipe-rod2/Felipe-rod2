@@ -17,7 +17,7 @@ Me gusta aprender, me gusta la programación, las matemáticas y los mecanismos.
 - Engineering
 
 ## 📬 Contacto
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://x.com/_pipeeeee_?t=9ZClI7LCplrTDAWKmxD1bA&s=09)](https://x.com/_pipeeeee_?t=9ZClI7LCplrTDAWKmxD1bA&s=09)].
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://x.com/_pipeeeee_?t=9ZClI7LCplrTDAWKmxD1bA&s=09)](https://x.com/_pipeeeee_?t=9ZClI7LCplrTDAWKmxD1bA&s=09)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rossember-eden-cardenas-torres-928629192/)](https://www.linkedin.com/in/rossember-eden-cardenas-torres-928629192/)
 
 -->
